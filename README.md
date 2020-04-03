@@ -5,3 +5,5 @@ It uses distance measures to classify the data, Types of Distance Measures used 
 1. Euclidean distance formula.
 2. Mahalnobis distance formula.
 3. Manhathan distance formula.
+
+Also to find the distance of classification variable we have Hamming distance
